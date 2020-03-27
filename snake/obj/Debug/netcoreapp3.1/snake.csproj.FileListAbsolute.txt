@@ -1,0 +1,13 @@
+/home/serj/Рабочий стол/oop/snake/snake/bin/Debug/netcoreapp3.1/snake
+/home/serj/Рабочий стол/oop/snake/snake/bin/Debug/netcoreapp3.1/snake.deps.json
+/home/serj/Рабочий стол/oop/snake/snake/bin/Debug/netcoreapp3.1/snake.runtimeconfig.json
+/home/serj/Рабочий стол/oop/snake/snake/bin/Debug/netcoreapp3.1/snake.runtimeconfig.dev.json
+/home/serj/Рабочий стол/oop/snake/snake/bin/Debug/netcoreapp3.1/snake.dll
+/home/serj/Рабочий стол/oop/snake/snake/bin/Debug/netcoreapp3.1/snake.pdb
+/home/serj/Рабочий стол/oop/snake/snake/obj/Debug/netcoreapp3.1/snake.csprojAssemblyReference.cache
+/home/serj/Рабочий стол/oop/snake/snake/obj/Debug/netcoreapp3.1/snake.csproj.CoreCompileInputs.cache
+/home/serj/Рабочий стол/oop/snake/snake/obj/Debug/netcoreapp3.1/snake.AssemblyInfoInputs.cache
+/home/serj/Рабочий стол/oop/snake/snake/obj/Debug/netcoreapp3.1/snake.AssemblyInfo.cs
+/home/serj/Рабочий стол/oop/snake/snake/obj/Debug/netcoreapp3.1/snake.dll
+/home/serj/Рабочий стол/oop/snake/snake/obj/Debug/netcoreapp3.1/snake.pdb
+/home/serj/Рабочий стол/oop/snake/snake/obj/Debug/netcoreapp3.1/snake.genruntimeconfig.cache
