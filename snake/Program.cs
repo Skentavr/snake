@@ -10,8 +10,8 @@ namespace snake
     {
         static void Main(string[] args)
         {
-            int x1 = 1;
-            int y1 = 1;
+            int x1 = 3;
+            int y1 = 5;
             char sym1 = '*';
 
             Draw( x1, y1, sym1);
