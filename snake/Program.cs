@@ -22,6 +22,12 @@ namespace snake
 
             Draw( x2, y2, sym2 );
 
+            int x3 = 7;
+            int y3 = 16;
+            char sym3 = '||';
+
+            Draw( x3, y3, sym3 );
+
             Console.ReadLine();
         }
         static void Draw(int x, int y, char sym)
