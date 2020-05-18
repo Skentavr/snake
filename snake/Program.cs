@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,14 +10,14 @@ namespace snake
     {
         static void Main(string[] args)
         {
-            int x1 = 3;
-            int y1 = 5;
+            int x1 = 8;
+            int y1 = 15;
             char sym1 = '*';
 
             Draw( x1, y1, sym1);
 
-            int x2 = 7;
-            int y2 = 9;
+            int x2 = 6;
+            int y2 = 13;
             char sym2 = '#';
 
             Draw( x2, y2, sym2 );
